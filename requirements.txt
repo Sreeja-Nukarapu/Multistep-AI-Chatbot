@@ -1,0 +1,6 @@
+requests==2.32.3
+cohere==5.13.12
+matplotlib==3.8.2
+tavily==0.5.1  
+gradio==5.16.0
+pillow==11.1.0
